@@ -7,7 +7,7 @@
 - The dataset generated from this project can be utilized for larger-scale projects such as building chatbots, reinforcement learning-based language models, and more.
 
 ### 2. Introduction
-> !NOTE
+> [!NOTE]
 > For this project, we are adopting the logic of Generative Adversarial Networks (GANs), which consists of two main components: the **Generator Model** and the **Discriminator Model, which also serves as the Ranking Model.**
 
 - #### Generator Model
