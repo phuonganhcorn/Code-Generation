@@ -8,7 +8,7 @@
 
 ### 2. Introduction
 > [!NOTE]
-> For this project, we are adopting the logic of Generative Adversarial Networks (GANs), which consists of two main components: the **Generator Model** and the **Discriminator Model, which also serves as the Ranking Model.**
+> For this project, I'm adopting the logic of Generative Adversarial Networks (GANs), which consists of two main components: the _**Generator Model**_ and the _**Discriminator Model, which also serves as the Ranking Model.**_
 
 - #### Generator Model
 
